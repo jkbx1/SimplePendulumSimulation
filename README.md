@@ -21,5 +21,5 @@ A real-time physical simulation of a mathematical pendulum, written in C# using 
 1. Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/PendulumSimulation.git](https://github.com/YourUsername/PendulumSimulation.git)
+   git clone [https://github.com/jkbx1/PendulumSimulation.git](https://github.com/jkbx1/PendulumSimulation.git)
    ```
