@@ -1,4 +1,4 @@
-# Mathematical Pendulum Simulation ⏱️
+gt# Mathematical Pendulum Simulation ⏱️
 
 A real-time physical simulation of a mathematical pendulum, written in C# using Windows Forms. This project accurately models pendulum motion using numerical integration and visualizes the acting forces.
 
@@ -21,5 +21,5 @@ A real-time physical simulation of a mathematical pendulum, written in C# using 
 1. Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/jkbx1/PendulumSimulation.git](https://github.com/jkbx1/PendulumSimulation.git)
+   git clone https://github.com/jkbx1/SimplePendulumSimulation
    ```
